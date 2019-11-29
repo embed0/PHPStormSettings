@@ -6,7 +6,7 @@
   <action id="ActivateFindToolWindow" />
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -25,9 +25,6 @@
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt q" />
-  </action>
-  <action id="ServiceView.ActivateDockerServiceViewContributor">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
